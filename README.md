@@ -1,5 +1,4 @@
-# interviewquestions
-Developer Interview Questions
+# Developer Interview Questions
 
 When my candidates find a new job, I recently started asking them what interview questions they were asked. Here is what they reported (so far) to help you prepare for your next interview:
 
